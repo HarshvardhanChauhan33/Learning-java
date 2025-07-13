@@ -13,4 +13,3 @@ public class Conditional {
      }
     }
 }
-//boilerplate code
