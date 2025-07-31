@@ -1,5 +1,5 @@
 //Product of 2 numbers
-/* 
+
 import java.util.*;
 
 public class Functions {
@@ -13,11 +13,11 @@ public class Functions {
        int prod = multiply(a,b);
        System.out.println("a * b = " + prod);
     }
-} */
+} 
 
 //Factorial of a number, n
 
-/* import java.util.*;
+ import java.util.*;
 
 public class Functions {
     public static int factorial(int n) {
@@ -32,10 +32,10 @@ public class Functions {
        System.out.println("Factorial is = " + fact);
     }
 }
- */
+ 
 
 //Calculating Binomial Coefficient
-/* 
+
 import java.util.*;
 
 public class Functions {
@@ -58,10 +58,10 @@ public class Functions {
        System.out.println(BinCoeff(5, 2));
     }
 }
- */
+ 
 
 //Check if a number is prime or not
-/* 
+
 import java.util.*;
 
 public class Functions {
@@ -78,10 +78,10 @@ public class Functions {
     public static void main(String args[]) {
        System.out.println(isPrime(4));
     }
-} */
+} 
 
 //Optimized way to check wheather the number is prime or not
-/* 
+
 import java.util.*;
 
 public class Functions {
@@ -99,10 +99,10 @@ public class Functions {
     public static void main(String args[]) {
        System.out.println(isPrime(16));
     }
-} */
+} 
 
 //Extra
-/* 
+
 import java.util.*;
 
 public class Functions {
@@ -128,11 +128,11 @@ public class Functions {
     public static void main(String args[]) {
       primesInRange(20);
     }
-} */
+} 
 
 //Convert Number from Binary to Decimal
 
-import java.util.*;
+ import java.util.*;
 
 public class Functions {
     public static void bintoDec(int binNum) {
@@ -154,4 +154,5 @@ public class Functions {
         bintoDec(binNum);                    
         sc.close();
     }
-}
+} 
+
